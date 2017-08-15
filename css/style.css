@@ -10,3 +10,8 @@
   width: 40px;
   height: 40px;
 }
+
+.numberOutput {
+	text-align: right;
+	height: 50px;
+}
